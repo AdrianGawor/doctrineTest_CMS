@@ -1,0 +1,14 @@
+{
+    "name": "adrian/dbal",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Adrian Gawor",
+            "email": "adrian.gawor@htl.rennweg.at"
+        }
+    ],
+    "require": {
+        "doctrine/dbal": "^2.9"
+    }
+}
